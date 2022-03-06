@@ -1,5 +1,5 @@
 #  Hotel Booking Application
-                                                                                        - Bit by Bit Team
+                                                                                    - Bit by Bit Team
 # Team Members:
 1. Akhil Apparaju 
 2. Sharan Santosh Rachamalla
