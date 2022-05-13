@@ -39,6 +39,11 @@ Deployment - AWS
 * [GitHub Repo](https://github.com/gopinathsjsu/team-project-bit-by-bit)
 
 
+# Diagrams
+
+* Architecture Diagram
+![image](https://user-images.githubusercontent.com/48201939/168221088-add5c3c1-40a9-4fe8-9e7e-5552f9480552.png)
+
 
 # AWS EC2 with Load Balancer Deployment Screenshots 
 
