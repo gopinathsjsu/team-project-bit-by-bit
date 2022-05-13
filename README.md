@@ -44,6 +44,8 @@ Deployment - AWS
 * Architecture Diagram
 ![image](https://user-images.githubusercontent.com/48201939/168221088-add5c3c1-40a9-4fe8-9e7e-5552f9480552.png)
 
+* Deployment Diagram
+![image](https://user-images.githubusercontent.com/48201939/168221715-05557792-d94f-4c15-a75b-5ed003422f19.png)
 
 # AWS EC2 with Load Balancer Deployment Screenshots 
 
