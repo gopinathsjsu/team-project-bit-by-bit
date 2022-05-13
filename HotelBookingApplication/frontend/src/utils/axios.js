@@ -2,7 +2,7 @@ import axios from "axios";
 //
 export default (history=null) => {
   //const baseURL = "https://b0a4-2600-1700-65aa-d910-c745-6851-1ffa-3cac.ngrok.io/"
-  const baseURL = "http://3.89.97.111:3001";
+  const baseURL = "http://myhotelbalancer-31160494.us-east-1.elb.amazonaws.com";
   let headers = {};
 
   if (localStorage.token) {

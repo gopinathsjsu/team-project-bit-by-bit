@@ -1,0 +1,3 @@
+{
+  "mongoDB": "mongodb+srv://admin:admin273admin@etsycluster.fnnju.mongodb.net/marriott?retryWrites=true&w=majority"
+}

@@ -10,18 +10,6 @@ const getUsers = async (req, res) => {
   }
 };
 
-const getUsersById = async (req, res) => {
-  try {
-      let userInstance = ModelFactory.getUserInstance();
-      let user = await userInstance.findOne({_id: req.body.id});
-      res.status(200).json(user);
-  } catch (err) {
-      console.log("err ===>", err);
-      res.status(400).json({ msg: "Error in fetching users data" });
-      return;
-  }
-};
-
 const deleteUser = async (req, res) => {
   try{
       let userInstance = ModelFactory.getUserInstance();
@@ -42,12 +30,7 @@ let endpoints = {
   "/users/:userId": [{
       method: "DELETE",
       callbacks: [deleteUser]
-  },
-  {
-    method: "GET",
-    callbacks: [getUsersById]
-},
-  ]
+  }]
 };
 
 export {

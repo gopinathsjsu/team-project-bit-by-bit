@@ -1,0 +1,50 @@
+let hotelId = `h-${uuid()}`;
+
+  //   let newHotel = {
+  //     _id: hotelId,
+  //     name: "DEF Hotel",
+  //     city: "San Jose",
+  //     state: "California",
+  //     zipcode: "95126",
+  //     country: "USA",
+  // }
+  // console.log("###### new hotel created : ", hotelId);
+  // let hotelResult = await hotelInstance.create(newHotel)
+
+
+  // let roomId = `r-${uuid()}`;
+
+  //   let newRoom = {
+  //     _id: roomId,
+  //     hotelId: "h-7becd496-5dc6-4a1e-9ba9-4a9dd07504c0",
+  //     type: "Double Rooms",
+  //     maxNumberOfGuests: 3
+  // }
+  // console.log("###### new room created : ", roomId);
+  // let roomResult = await roomInstance.create(newRoom)
+  
+
+  let bookingId = `b-${uuid()}`;
+
+    let newBooking = {
+      _id: bookingId,
+      amenities: [],
+      location: "San Diego",
+      checkIn: new Date("05-25-2022").getTime(),
+      checkOut: new Date("05-26-2022").getTime(),
+      noOfGuests: 2,
+      roomId: "r-e4febbec-1922-4d5a-97af-5f06210c035d",
+  }
+  console.log("###### new booking created : ", bookingId);
+  let bookingResult = await bookingInstance.create(newBooking)
+  console.log("###### new booking created : ", bookingResult);
+
+
+
+  /* 
+  UI - (login, signup) - Raju, (hotels, rooms) - Sharan, (Navbar, search bar, bookings) - Akhil
+  Backend - (login, signup, admin) - Sharan, (hotels, bookings) - Akhil 
+  Wireframes - Raju & Prerna
+  Database - Prerna
+  Deployment - AWS
+  */
