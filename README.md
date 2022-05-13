@@ -37,3 +37,18 @@ Deployment - AWS
 * [Journal](https://github.com/gopinathsjsu/team-project-bit-by-bit/blob/main/HotelBookingApplication/files/Journal/Journal.xlsx) 
 * [Sprint Sheet](https://github.com/gopinathsjsu/team-project-bit-by-bit/blob/main/HotelBookingApplication/files/Sprint/Sprint.xlsx)
 * [GitHub Repo](https://github.com/gopinathsjsu/team-project-bit-by-bit)
+
+
+
+# AWS EC2 with Load Balancer Deployment Screenshots 
+
+
+![image](https://user-images.githubusercontent.com/48201939/168220405-d2799de1-dd5f-43d9-9480-37ed84b46992.png)
+![image](https://user-images.githubusercontent.com/48201939/168220417-d6d0020f-a445-4b53-8a5c-b45d7e306cf0.png)
+![image](https://user-images.githubusercontent.com/48201939/168220426-a2134edc-806e-4f20-a3da-08602f6537cf.png)
+![image](https://user-images.githubusercontent.com/48201939/168220436-7fdc405c-ead1-4eee-bb24-e69b0860c283.png)
+![image](https://user-images.githubusercontent.com/48201939/168220443-576f68c1-1475-4a89-824e-73bbe56f7f05.png)
+![image](https://user-images.githubusercontent.com/48201939/168220452-095947be-72f0-49f3-8346-131d4f18fd5f.png)
+![image](https://user-images.githubusercontent.com/48201939/168220463-2c4a839d-c5f7-461d-9911-944f71b5aef9.png)
+![image](https://user-images.githubusercontent.com/48201939/168220485-3f1817cc-dd9a-4d79-8461-d9563710e7b9.png)
+
